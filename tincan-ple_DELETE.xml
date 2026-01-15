@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="http://ple.web.att.com/course/70033275" type="http://adlnet.gov/expapi/activities/course">
+            <name lang="en-US">Attic and crawl space safety</name>
+            <description lang="en-US">Attic and crawl space safety</description>
+            <launch lang="en-us">index.html</launch>
+        </activity>
+    </activities>
+</tincan>
+
+
