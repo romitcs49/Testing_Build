@@ -1,0 +1,5 @@
+# Large bundle files that exceed GitHub's 100MB limit
+StreamingAssets/aa/WebGL/shaders_assets_all_a88ee36a93e3f35b963346ad6a0ff608.bundle
+
+# macOS
+.DS_Store
