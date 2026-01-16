@@ -20,6 +20,7 @@
     <type fullname="CaptionPanel" preserve="all" />
     <type fullname="CompletesAfterLoadCompletes" preserve="all" />
     <type fullname="CompletesAfterTime" preserve="all" />
+    <type fullname="CompletesOnClickAnywhere" preserve="all" />
     <type fullname="CompletesOnTrigger" preserve="all" />
     <type fullname="CompleteWhenTold" preserve="all" />
     <type fullname="ConeController" preserve="all" />
