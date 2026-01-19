@@ -67,6 +67,7 @@
     <type fullname="PlatformDetector" preserve="all" />
     <type fullname="PlatformResponsiveManager" preserve="all" />
     <type fullname="PlatformTextChanger" preserve="all" />
+    <type fullname="PlayVoiceOverOnEnable" preserve="all" />
     <type fullname="PortraitWarning" preserve="all" />
     <type fullname="ProcedureStep" preserve="all" />
     <type fullname="RaycastInteraction" preserve="all" />
