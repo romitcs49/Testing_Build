@@ -16,6 +16,7 @@
     <type fullname="BadgeControl" preserve="all" />
     <type fullname="BoolGameEvent" preserve="all" />
     <type fullname="BoolGameEventListener" preserve="all" />
+    <type fullname="BreathingAnimation" preserve="all" />
     <type fullname="ButtonPressMeter" preserve="all" />
     <type fullname="CameraBackgroundManager" preserve="all" />
     <type fullname="CaptionPanel" preserve="all" />
