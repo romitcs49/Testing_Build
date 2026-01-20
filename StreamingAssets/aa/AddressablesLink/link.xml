@@ -29,7 +29,6 @@
     <type fullname="ConeController" preserve="all" />
     <type fullname="ConeControllerExtended" preserve="all" />
     <type fullname="DebugQuickNav" preserve="all" />
-    <type fullname="DelayedFunctionCall" preserve="all" />
     <type fullname="DeviceBasedPositioning" preserve="all" />
     <type fullname="DeviceChecker" preserve="all" />
     <type fullname="DeviceCheckerExample" preserve="all" />
