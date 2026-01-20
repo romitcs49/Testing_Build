@@ -5,6 +5,7 @@
     <type fullname="AddressableSceneModuleLoader" preserve="all" />
     <type fullname="AddressableStepObject" preserve="all" />
     <type fullname="AnimatedSpeaker" preserve="all" />
+    <type fullname="AnimationClipEventTrigger" preserve="all" />
     <type fullname="AnimationPauseController" preserve="all" />
     <type fullname="Aptara.Procedures.AddressableVoiceOver" preserve="all" />
     <type fullname="Aptara.Procedures.AddressableVoiceOverStepObjectWithCompleter" preserve="all" />
