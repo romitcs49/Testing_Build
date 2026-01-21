@@ -82,7 +82,6 @@
     <type fullname="SoundPlayer" preserve="all" />
     <type fullname="SpawnTest" preserve="all" />
     <type fullname="StepEnterAndExitCompleter" preserve="all" />
-    <type fullname="TechnicianEnteringHatchRepositionController" preserve="all" />
     <type fullname="TechnicianHatchDoorPickingRepositionController" preserve="all" />
     <type fullname="TimerMeter" preserve="all" />
     <type fullname="TimescalePausePanel" preserve="all" />
